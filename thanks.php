@@ -9,7 +9,7 @@
 
 	
 
-	<title>Финансист</title>
+	<title>Доллар</title>
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CMuli:400,700" rel="stylesheet">
@@ -118,105 +118,30 @@
 	</header>
 	<!-- /HEADER -->
 
-
-	<!-- SECTION -->
+	<!-- section -->
 	<div class="section">
 		<!-- container -->
 		<div class="container">
 			<!-- row -->
 			<div class="row">
 				<div class="col-md-8">
-					<!-- row -->
-					<div class="row">
-						<div class="col-md-12">
-							<div class="section-title">
-								<h2 class="title">Статьи</h2>
-							</div>
+					<!-- post share -->
+					<div class="section-row">
+						<div class="post-share">
+							<a href="#" class="social-facebook"><i class="fa fa-facebook"></i><span>Share</span></a>
+							<a href="#" class="social-twitter"><i class="fa fa-twitter"></i><span>Tweet</span></a>
+							<a href="#" class="social-pinterest"><i class="fa fa-pinterest"></i><span>Pin</span></a>
+							<a href="#" ><i class="fa fa-envelope"></i><span>Email</span></a>
 						</div>
-						
-						<!-- post -->
-						<div class="col-md-6">
-							<div class="post">
-								<a class="post-img" href="f7c1e77ba0d9c515ecefb3abd68fc464.php"><img src="./img/scott-webb-jsnbx8514cy-unsplash.jpg" alt=""></a>
-								<div class="post-body">
-									<h3 class="post-title"><a href="f7c1e77ba0d9c515ecefb3abd68fc464.php">Чем обычно отличаются люди в своем мышлении от богатых и бедных</a></h3>
-									<ul class="post-meta">
-										<li><a href="f7c1e77ba0d9c515ecefb3abd68fc464.php">Юлия</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						
-						<!-- /post -->
-						
+					</div>
+					<!-- /post share -->
 
-						<!-- post -->
-						<div class="col-md-6">
-							<div class="post">
-								<a class="post-img" href="0lAXWLn9MvxKbGli2ffq08.php"><img src="./img/image00022.jpg" alt=""></a>
-								<div class="post-body">
-									<h3 class="post-title"><a href="0lAXWLn9MvxKbGli2ffq08.php">Какие действия приведут вас к богатству (5 рекомендаций)</a></h3>
-									<ul class="post-meta">
-										<li><a href="0lAXWLn9MvxKbGli2ffq08.php">Юлия</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="clearfix visible-md visible-lg"></div>
-						<!-- /post -->
-						
-
-						<!-- post -->
-						<div class="col-md-6">
-							<div class="post">
-								<a class="post-img" href="971a4054d88993c576173613439e09a4.php"><img src="./img/filtergrade-jjw3ue37s2m-unsplash.jpg" alt=""></a>
-								<div class="post-body">
-									<h3 class="post-title"><a href="971a4054d88993c576173613439e09a4.php">Проблема инфляции решена!</a></h3>
-									<ul class="post-meta">
-										<li><a href="971a4054d88993c576173613439e09a4.php">Юлия</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						
-						<!-- /post -->
-						
-
-						<!-- post -->
-						<div class="col-md-6">
-							<div class="post">
-								<a class="post-img" href="72343149741813a12e88e6b63af84c01.php"><img src="./img/pavel-fertikh-jooa9ewfj8a-unsplash.jpg" alt=""></a>
-								<div class="post-body">
-									<h3 class="post-title"><a href="72343149741813a12e88e6b63af84c01.php">Как навсегда избавиться от денежных проблем. Простые шаги, которые приведут к большому доходу</a></h3>
-									<ul class="post-meta">
-										<li><a href="72343149741813a12e88e6b63af84c01.php">Юлия</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="clearfix visible-md visible-lg"></div>
-						<!-- /post -->
-						
-
-						<!-- post -->
-						<div class="col-md-6">
-							<div class="post">
-								<a class="post-img" href="9663fcafff6fb12c912f30df932b165b.php"><img src="./img/daniel-h-tong-uesvuw_hf7u-unsplash.jpg" alt=""></a>
-								<div class="post-body">
-									<h3 class="post-title"><a href="9663fcafff6fb12c912f30df932b165b.php">Безопасно ли инвестировать в ETF?</a></h3>
-									<ul class="post-meta">
-										<li><a href="9663fcafff6fb12c912f30df932b165b.php">Юлия</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						
-						<!-- /post -->
-						
-
+					<!-- post content -->
+					<div class="section-row">
+						<h3>Thanks</h3>
 
 					</div>
-					<!-- /row -->
+					<!-- /post content -->
 				</div>
 				<div class="col-md-4">
 
@@ -230,19 +155,19 @@
 								<li>
 									<a href="#" class="social-facebook">
 										<i class="fa fa-facebook"></i>
-										<span>209.7K<br>Followers</span>
+										<span>159.7K<br>Followers</span>
 									</a>
 								</li>
 								<li>
 									<a href="#" class="social-twitter">
 										<i class="fa fa-twitter"></i>
-										<span>214.7<br>Followers</span>
+										<span>118.8<br>Followers</span>
 									</a>
 								</li>
 								<li>
 									<a href="#" class="social-google-plus">
 										<i class="fa fa-google-plus"></i>
-										<span>310.6<br>Followers</span>
+										<span>133.3<br>Followers</span>
 									</a>
 								</li>
 							</ul>
@@ -323,7 +248,6 @@
 	</div>
 	<!-- /SECTION -->
 
-
 	<!-- FOOTER -->
 	<footer id="footer">
 		<!-- container -->
@@ -371,7 +295,7 @@
 				</div>
 				<div class="col-md-4 col-md-pull-8">
 					<div class="footer-copyright">
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+						Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
 
 					</div>
 				</div>
